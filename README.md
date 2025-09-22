@@ -41,6 +41,7 @@ admin.site.register(Car, CarAdmin)
 admin.py
 from django.contrib import admin
 from .models import Car, CarAdmin
+```
 # OUTPUT
 <img width="1895" height="913" alt="Screenshot 2025-09-21 105023" src="https://github.com/user-attachments/assets/8f0d057e-ac43-4817-8522-fffe3bcf9fd7" />
 
