@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-# Date:
+# Date:22/09/25
 # AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
 
@@ -42,7 +42,7 @@ admin.py
 from django.contrib import admin
 from .models import Car, CarAdmin
 # OUTPUT
-Include the screenshot of your admin page.
+<img width="1895" height="913" alt="Screenshot 2025-09-21 105023" src="https://github.com/user-attachments/assets/8f0d057e-ac43-4817-8522-fffe3bcf9fd7" />
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
